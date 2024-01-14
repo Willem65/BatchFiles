@@ -56,6 +56,6 @@ REM git remote -v
 REM @echo.
 REM git push %1 --force
 
-ping -n 8 127.0.0.1>NUL
+ping -n 1 127.0.0.1>NUL
 
 endlocal
